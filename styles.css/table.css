@@ -1,0 +1,23 @@
+*{
+    font-family: Roboto;
+    font-weight: 300;
+}
+
+table,th,td{
+    border: 1px solid;
+    width: 40%;
+}
+
+h1{
+    text-align: center;
+}
+table{
+    display: table;
+    margin: 0 auto;
+    /* padding: 1%; */
+    font-size: 30px;
+}
+table{
+    border-collapse: collapse;
+}
+

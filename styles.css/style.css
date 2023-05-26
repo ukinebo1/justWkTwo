@@ -1,0 +1,62 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: red; */
+
+*{
+    font-family: Roboto;
+    font-weight: 500;
+}
+ img{
+    display: block;
+    margin: 0 auto;
+} 
+
+.text2 h2{
+    text-align: center;
+}
+
+ .text1,h1,p{
+    text-align: center; 
+    margin-top: 0; 
+    margin-bottom: 0; 
+}
+.text2,h2{
+    margin-top: 0; 
+    margin-bottom: 0;
+
+}
+hr{
+    width: 25%;
+    text-align: center; 
+}
+ ol{
+    display: table;
+    margin: 0 auto;
+} 
+
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+.btna{
+    text-decoration: none;
+    color: white;
+} 
+
+button{
+    background-color: rgb(78, 78, 243);
+    color: white;
+    padding: .5%;
+    margin-left: 1%;
+    border-radius: 15px;
+    border-color: rgb(78, 78, 243);
+    width: 7%;
+    cursor: pointer;
+}
+.text3{
+    margin-top: 1%;
+}
